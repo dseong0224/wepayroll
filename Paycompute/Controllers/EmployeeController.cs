@@ -23,7 +23,7 @@ namespace Paycompute.Controllers
                 ImageUrl = employee.ImageUrl,
                 FullName = employee.FullName,
                 Gender = employee.Gender,
-                Role = employee.,
+                Role = employee.Role,
                 City = employee.City,
                 DateJoined = employee.DateJoined
         }).ToList();
