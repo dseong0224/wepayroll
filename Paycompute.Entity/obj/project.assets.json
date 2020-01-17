@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dseon\\Hacking\\side-projects\\Paycompute.Entity\\Paycompute.Entity.csproj",
+      "projectUniqueName": "C:\\Users\\dseon\\Hacking\\side-projects\\Wepayroll\\Paycompute.Entity\\Paycompute.Entity.csproj",
       "projectName": "Paycompute.Entity",
-      "projectPath": "C:\\Users\\dseon\\Hacking\\side-projects\\Paycompute.Entity\\Paycompute.Entity.csproj",
+      "projectPath": "C:\\Users\\dseon\\Hacking\\side-projects\\Wepayroll\\Paycompute.Entity\\Paycompute.Entity.csproj",
       "packagesPath": "C:\\Users\\dseon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dseon\\Hacking\\side-projects\\Paycompute.Entity\\obj\\",
+      "outputPath": "C:\\Users\\dseon\\Hacking\\side-projects\\Wepayroll\\Paycompute.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

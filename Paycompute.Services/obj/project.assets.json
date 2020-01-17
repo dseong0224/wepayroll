@@ -5107,11 +5107,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dseon\\Hacking\\side-projects\\Paycompute.Services\\Paycompute.Services.csproj",
+      "projectUniqueName": "C:\\Users\\dseon\\Hacking\\side-projects\\Wepayroll\\Paycompute.Services\\Paycompute.Services.csproj",
       "projectName": "Paycompute.Services",
-      "projectPath": "C:\\Users\\dseon\\Hacking\\side-projects\\Paycompute.Services\\Paycompute.Services.csproj",
+      "projectPath": "C:\\Users\\dseon\\Hacking\\side-projects\\Wepayroll\\Paycompute.Services\\Paycompute.Services.csproj",
       "packagesPath": "C:\\Users\\dseon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dseon\\Hacking\\side-projects\\Paycompute.Services\\obj\\",
+      "outputPath": "C:\\Users\\dseon\\Hacking\\side-projects\\Wepayroll\\Paycompute.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5131,11 +5131,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\dseon\\Hacking\\side-projects\\Paycompute.Entity\\Paycompute.Entity.csproj": {
-              "projectPath": "C:\\Users\\dseon\\Hacking\\side-projects\\Paycompute.Entity\\Paycompute.Entity.csproj"
+            "C:\\Users\\dseon\\Hacking\\side-projects\\Wepayroll\\Paycompute.Entity\\Paycompute.Entity.csproj": {
+              "projectPath": "C:\\Users\\dseon\\Hacking\\side-projects\\Wepayroll\\Paycompute.Entity\\Paycompute.Entity.csproj"
             },
-            "C:\\Users\\dseon\\Hacking\\side-projects\\Paycompute.Persistence\\Paycompute.Persistence.csproj": {
-              "projectPath": "C:\\Users\\dseon\\Hacking\\side-projects\\Paycompute.Persistence\\Paycompute.Persistence.csproj"
+            "C:\\Users\\dseon\\Hacking\\side-projects\\Wepayroll\\Paycompute.Persistence\\Paycompute.Persistence.csproj": {
+              "projectPath": "C:\\Users\\dseon\\Hacking\\side-projects\\Wepayroll\\Paycompute.Persistence\\Paycompute.Persistence.csproj"
             }
           }
         }

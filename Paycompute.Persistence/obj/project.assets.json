@@ -5158,11 +5158,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dseon\\Hacking\\side-projects\\Paycompute.Persistence\\Paycompute.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\dseon\\Hacking\\side-projects\\Wepayroll\\Paycompute.Persistence\\Paycompute.Persistence.csproj",
       "projectName": "Paycompute.Persistence",
-      "projectPath": "C:\\Users\\dseon\\Hacking\\side-projects\\Paycompute.Persistence\\Paycompute.Persistence.csproj",
+      "projectPath": "C:\\Users\\dseon\\Hacking\\side-projects\\Wepayroll\\Paycompute.Persistence\\Paycompute.Persistence.csproj",
       "packagesPath": "C:\\Users\\dseon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dseon\\Hacking\\side-projects\\Paycompute.Persistence\\obj\\",
+      "outputPath": "C:\\Users\\dseon\\Hacking\\side-projects\\Wepayroll\\Paycompute.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5182,8 +5182,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\dseon\\Hacking\\side-projects\\Paycompute.Entity\\Paycompute.Entity.csproj": {
-              "projectPath": "C:\\Users\\dseon\\Hacking\\side-projects\\Paycompute.Entity\\Paycompute.Entity.csproj"
+            "C:\\Users\\dseon\\Hacking\\side-projects\\Wepayroll\\Paycompute.Entity\\Paycompute.Entity.csproj": {
+              "projectPath": "C:\\Users\\dseon\\Hacking\\side-projects\\Wepayroll\\Paycompute.Entity\\Paycompute.Entity.csproj"
             }
           }
         }
