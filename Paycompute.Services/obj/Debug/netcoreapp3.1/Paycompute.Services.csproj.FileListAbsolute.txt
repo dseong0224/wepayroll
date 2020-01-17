@@ -1,0 +1,13 @@
+C:\Users\dseon\Hacking\side-projects\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Services.deps.json
+C:\Users\dseon\Hacking\side-projects\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Services.dll
+C:\Users\dseon\Hacking\side-projects\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Services.pdb
+C:\Users\dseon\Hacking\side-projects\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Entity.dll
+C:\Users\dseon\Hacking\side-projects\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Persistence.dll
+C:\Users\dseon\Hacking\side-projects\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Entity.pdb
+C:\Users\dseon\Hacking\side-projects\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Persistence.pdb
+C:\Users\dseon\Hacking\side-projects\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.csprojAssemblyReference.cache
+C:\Users\dseon\Hacking\side-projects\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.AssemblyInfoInputs.cache
+C:\Users\dseon\Hacking\side-projects\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.AssemblyInfo.cs
+C:\Users\dseon\Hacking\side-projects\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.csproj.CopyComplete
+C:\Users\dseon\Hacking\side-projects\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.dll
+C:\Users\dseon\Hacking\side-projects\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.pdb
